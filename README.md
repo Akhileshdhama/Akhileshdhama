@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Akhileshdhama
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Deep learning
-- 💞️ I’m looking to collaborate on ML models
-- 📫 How to reach me akhiksg36@gmail.com
+👋 Hi there, 
+   I’m Akhilesh Dhama
+👀 Interested in Python,Data Science
+🌱 working on Machine learning
+💞️ Looking to collaborate on ML models
+📫 Reach me akhiksg36@gmail.com
 
 <!---
 Akhileshdhama/Akhileshdhama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
