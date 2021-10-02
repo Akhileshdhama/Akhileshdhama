@@ -1,9 +1,10 @@
-👋 Hi there, 
-   I’m Akhilesh Dhama
-👀 Interested in Python,Data Science
-🌱 working on Machine learning
-💞️ Looking to collaborate on ML models
-📫 Reach me akhiksg36@gmail.com
+👋 Hi there,                                                                      
+   🤵I’m Akhilesh Dhama                                                         
+   👨‍🎓B.tech NIT,Kurukshetra(2017-21)                                                                       
+   👀Python,Data Science                                                                      
+   🌱Machine learning                                                                                 
+   💞️ML Projects                                                                                                
+   📧akhiksg36@gmail.com
 
 <!---
 Akhileshdhama/Akhileshdhama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
